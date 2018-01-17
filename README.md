@@ -1,2 +1,2 @@
 # MuscleMemory
-Saving my muscle memory that facilitates better wielding of imperative knowledge for world domination
+Saving my muscle memory: facilitates better wielding of imperative knowledge for world domination
